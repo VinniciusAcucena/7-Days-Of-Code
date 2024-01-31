@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia 2</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>Questionário estudante de TI</h1>
+
+        <div class="perguntas">
+            <div class="nome">
+                <span>Digite o seu nome?</span>
+                <input id="nome-input" type="text" >
+            </div>
+            <div class="idade">
+                <span>Quantos anos você tem?</span>
+                <input id="idade-input" type="number">
+            </div>
+            <div class="linguagem">
+                <span>Qual linguagem de programação você está estudando?</span>
+                <input id="linguagem-input" type="text">
+            </div>
+
+            <button onclick="AtribuirDados()">Enviar</button>
+
+            <span id="resposta"></span>
+        </div>
+
+        <div class="opcional hidden">
+            <span class="pergunta-opcional"></span>
+            <input type="text" id="resposta-opcional">
+            <button onclick="responder()">Responder</button>
+            <span class="spanOpcional"></span>
+        </div>
+    </div>
+    
+    
+    <script defer src="./App.js"></script>
+</body>
+</html>
