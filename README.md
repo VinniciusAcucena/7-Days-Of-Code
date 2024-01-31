@@ -6,3 +6,9 @@
 
 O desafio do dia 1 foi testar as operações booleanas do JavaScript. 
 Foram passados algumas variáveis e valores para que sejam feitas as comparações dos valores atribuidos. Analisando se possuem o mesmo valor, mesmo tipo e etc. 
+
+## Dia 2:
+
+O desafio do dia 2 foi receber 3 valores do usuário (nome, idade e linguagem de programação que estuda) e mostrar uma mensagem de boas-vindas.
+Ainda foi passado como um desafio opcional para perguntar se o usuário está gostando da linguagem estudada e criar uma condicional para mostrar uma mensagem baseada na pergunta.
+Foi feito um HTML e CSS básico para a realização deste desafio.
