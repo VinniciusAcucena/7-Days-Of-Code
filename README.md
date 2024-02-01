@@ -12,3 +12,9 @@ Foram passados algumas variáveis e valores para que sejam feitas as comparaçõ
 O desafio do dia 2 foi receber 3 valores do usuário (nome, idade e linguagem de programação que estuda) e mostrar uma mensagem de boas-vindas.
 Ainda foi passado como um desafio opcional para perguntar se o usuário está gostando da linguagem estudada e criar uma condicional para mostrar uma mensagem baseada na pergunta.
 Foi feito um HTML e CSS básico para a realização deste desafio.
+
+## Dia 3:
+
+O desafio do dia 3 foi perguntar para o usuário qual área de tecnologia ele deseja seguir e dependendo da resposta seguir por um fluxo de instruções.
+No final, pediu para ser feito uma repetição para perguntar quais outra tecnologias deseja estudar.
+Neste desafio utilizei dos prompts do navegador para receber os dados e mostrar as respostas.
