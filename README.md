@@ -24,3 +24,8 @@ Neste desafio utilizei dos prompts do navegador para receber os dados e mostrar 
 O desafio do dia 4 foi um jogo de adivinhação, foi sorteado um número para o computador e o usuário deve acertar esse número com 3 tentativas.
 Caso acerte, mostrar uma mensagem positiva, caso errar nas 3 tentaivas, mostrar uma mensagem negativa revelando o número sorteado.
 Utilizei dos prompts do navegador para realizar este desafio.
+
+## Dia 5:
+
+O desafio do dia 5 foi desenvolver um programa em que crie uma lista de compras pra supermercado separando por categorias.
+Foi utilizado dos Arrays para a realização deste desafio além de HTML e CSS para estilizar as partes do projeto.
