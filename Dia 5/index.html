@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia 5</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Lista de compras</h1>
+    <div class="container">
+        <div class="pedido">
+            <div class="produto">
+                <span>Digite o produto:</span>
+                <input type="text" id="produto">
+            </div>
+    
+            <div class="categoria">
+                <span>Escolha a categoria do produto</span>
+                <select name="categoria" id="categoria">
+                    <option value="legumes">Legumes</option>
+                    <option value="frutas">Frutas</option>
+                    <option value="verduras">Verduras</option>
+                    <option value="laticinios">Latícionios</option>
+                    <option value="carnes">Carnes</option>
+                    <option value="doces">Doces</option>
+                    <option value="limpeza">Limpeza</option>
+                    <option value="outros">Outros</option>
+                </select>
+    
+            </div>
+            <button onclick="adicionarProduto()">Adicionar</button>
+        </div>
+
+        <div class="lista">
+            <h3>Sua lista de compras</h3>
+            <div class="lista-produtos">
+                <span class="legumes"></span>
+                <span class="frutas"></span>
+                <span class="verduras"></span>
+                <span class="laticinios"></span>
+                <span class="carnes"></span>
+                <span class="doces"></span>
+                <span class="limpeza"></span>
+                <span class="outros"></span>
+            </div>
+        </div>
+    </div>
+    <script src="App.js"></script>
+</body>
+</html>
