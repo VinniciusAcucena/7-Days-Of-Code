@@ -33,3 +33,9 @@ Foi utilizado dos Arrays para a realização deste desafio além de HTML e CSS p
 ## Dia 6:
 
 O desafio do dia 6 foi para evoluir o desafio do dia 5 adicionando a funcionalidade de remover um produto da lista.
+
+## Dia 7:
+
+O desafio do dia 7 foi criar uma calculadora que realiza as operações básicas.
+O objetivo de hoje foi praticar o uso de funções para deixar o código mais limpo.
+HTML e CSS básicos para a estilização da página
