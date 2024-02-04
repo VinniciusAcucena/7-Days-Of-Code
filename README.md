@@ -29,3 +29,7 @@ Utilizei dos prompts do navegador para realizar este desafio.
 
 O desafio do dia 5 foi desenvolver um programa em que crie uma lista de compras pra supermercado separando por categorias.
 Foi utilizado dos Arrays para a realização deste desafio além de HTML e CSS para estilizar as partes do projeto.
+
+## Dia 6:
+
+O desafio do dia 6 foi para evoluir o desafio do dia 5 adicionando a funcionalidade de remover um produto da lista.
